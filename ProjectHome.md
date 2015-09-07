@@ -1,0 +1,1 @@
+This is a single unified project to present source code snippets, algorithms, libraries, and techniques published by noted game developer John W. Ratcliff on his CodeSuppository website over the past several years.
